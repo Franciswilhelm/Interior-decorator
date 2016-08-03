@@ -7,3 +7,15 @@ img {
   width: 300px;
   text-align: center;
 }
+
+.one {
+  background-color: #996633;
+}
+
+.two {
+  background-color: #99ccff;
+}
+
+.three {
+  background-color: #ffd633;
+}
